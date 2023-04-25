@@ -1,0 +1,72 @@
+body {
+  width: 8.5in;
+  padding: 0.15in 0.25in 0 0.25in;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  font-size: 32pt;
+  margin-left: -1pt;
+  margin-top: -3pt;
+  margin-bottom: -3pt;
+}
+
+h2 {
+  font-size: 14pt;
+  margin-top: 4pt;
+  color:  white;
+}
+
+h3 {
+  font-size: 12pt;
+}
+
+hr {
+  margin: 5pt 0;
+}
+
+p, ul {
+  margin-top: 3pt;
+  margin-bottom: 4pt;
+}
+
+ul {
+  padding-left: 20pt;
+}
+
+li + li {
+  margin-top: 2pt;
+}
+
+ul.plain.pad {
+  padding-left: 10pt;
+}
+
+.gray { color: white; }
+
+.icon {
+  width: 13pt;
+  height: 13pt;
+  margin-bottom: -2pt;
+}
+
+.schools li {
+  white-space: nowrap;
+}
+
+#contact, #info {
+  margin-bottom: 2pt;
+}
+
+.link {
+  padding-left: 0.1in;
+}
+
+.year {
+  padding-right: 4pt;
+}
+
+.clip {
+  margin-bottom: -20pt;
+}
